@@ -58,7 +58,7 @@
 ### 主界面
 
 
-![主界面截图](C:\Users\WanZhi\Downloads\1\assets\image-20260404172727593.png)
+![主界面截图](assets\image-20260404172727593.png)
 
 ### 操作界面
 
@@ -66,27 +66,27 @@
 
 经过测试某网站存在任意文件读取漏洞
 
-![漏洞数据包](C:\Users\WanZhi\Downloads\1\assets\image-20260404214320019.png)
+![漏洞数据包](assets\image-20260404214320019.png)
 
 **指纹识别结果**：
 
 通过查找指纹得到
 
-![指纹识别](C:\Users\WanZhi\Downloads\1\assets\image-20260404214455545.png)
+![指纹识别](assets\image-20260404214455545.png)
 
 **测试配置**：
 
 将请求数据包和目标IP进行添加
 
-![测试配置](C:\Users\WanZhi\Downloads\1\assets\image-20260404173523689.png)
+![测试配置](assets\image-20260404173523689.png)
 
 ### 测试结果
 
-![测试结果1](C:\Users\WanZhi\Downloads\1\assets\image-20260404173956747.png)
+![测试结果1](assets\image-20260404173956747.png)
 
-![测试结果2](C:\Users\WanZhi\Downloads\1\assets\image-20260404215028404.png)
+![测试结果2](assets\image-20260404215028404.png)
 
-![测试结果3](C:\Users\WanZhi\Downloads\1\assets\image-20260404174017936.png)
+![测试结果3](assets\image-20260404174017936.png)
 
 
 
@@ -144,4 +144,4 @@
 
 **欢迎关注公众号「安全wz啊」**
 
-![image-20260404215645571](C:\Users\WanZhi\Downloads\1\assets\image-20260404215645571.png)
+![image-20260404215645571](assets\image-20260404215645571.png)
