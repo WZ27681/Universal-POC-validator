@@ -58,7 +58,7 @@
 ### 主界面
 
 
-![主界面截图](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404172727593.png)
+![主界面截图](C:\Users\WanZhi\Downloads\1\assets\image-20260404172727593.png)
 
 ### 操作界面
 
@@ -66,45 +66,49 @@
 
 经过测试某网站存在任意文件读取漏洞
 
-![漏洞数据包](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404214320019.png)
+![漏洞数据包](C:\Users\WanZhi\Downloads\1\assets\image-20260404214320019.png)
 
 **指纹识别结果**：
 
 通过查找指纹得到
 
-![指纹识别](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404214455545.png)
+![指纹识别](C:\Users\WanZhi\Downloads\1\assets\image-20260404214455545.png)
 
 **测试配置**：
 
 将请求数据包和目标IP进行添加
 
-![测试配置](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404173523689.png)
+![测试配置](C:\Users\WanZhi\Downloads\1\assets\image-20260404173523689.png)
 
 ### 测试结果
 
-![测试结果1](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404173956747.png)
+![测试结果1](C:\Users\WanZhi\Downloads\1\assets\image-20260404173956747.png)
 
-![测试结果2](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404215028404.png)
+![测试结果2](C:\Users\WanZhi\Downloads\1\assets\image-20260404215028404.png)
 
-![测试结果3](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404174017936.png)
+![测试结果3](C:\Users\WanZhi\Downloads\1\assets\image-20260404174017936.png)
 
 
 
 ## 常见问题与解决方案
 
 ### 1. 程序启动失败
+
 - **原因**：端口 6880 被占用
 - **解决方案**：关闭占用该端口的程序，或重启电脑后再试
 
 ### 2. 无法连接Burp Suite
+
 - **原因**：Burp Suite 未启动或端口配置错误
 - **解决方案**：确保Burp Suite已启动并监听 127.0.0.1:8080
 
 ### 3. 测试无响应
+
 - **原因**：目标服务器无法访问或网络问题
 - **解决方案**：检查网络连接，确保目标服务器可达
 
 ### 4. 临时文件问题
+
 - **现象**：运行时会在临时目录生成文件
 - **说明**：这是PyInstaller的正常工作机制，程序退出后会自动清理
 
@@ -119,6 +123,7 @@
 ## 技术支持
 
 如有问题，请检查：
+
 - 端口 6880 是否被占用
 - Burp Suite 是否正常运行
 - 防火墙设置是否允许本地连接
@@ -139,4 +144,4 @@
 
 **欢迎关注公众号「安全wz啊」**
 
-![image-20260404215645571](C:\Users\WanZhi\AppData\Roaming\Typora\typora-user-images\image-20260404215645571.png)
+![image-20260404215645571](C:\Users\WanZhi\Downloads\1\assets\image-20260404215645571.png)
